@@ -1,0 +1,21 @@
+.parralax-title{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 25px 0;
+
+    div{
+        width: 50%;
+
+        h2{
+            color: white;
+            font-size: 26px;
+            font-weight: 700;
+        }
+
+        p{
+            color: #769797;
+        }
+    }
+}

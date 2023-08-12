@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  max-width: 1400px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #304e54;
+  z-index: 1;
+
+  .middleSection{
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+.products-section{
+  width: 100%;
+  margin-top: 20px;
+  min-height: 400px;
+  display: flex;
+  justify-content: space-between;
+}
+
