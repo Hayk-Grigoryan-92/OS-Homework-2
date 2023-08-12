@@ -12,6 +12,19 @@
     display: flex;
     justify-content: space-between;
   }
+
+  p{
+    text-align: center;
+    font-size: 28px;
+    color: white;
+  }
+
+  .references-container{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
 }
 
 .products-section{
